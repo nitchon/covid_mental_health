@@ -1,0 +1,95 @@
+,index,Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,Time Period Start Date,Time Period End Date,Value,Low CI,High CI,Confidence Interval
+2,78,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,1,"Apr 23 - May 5, 2020",2020-04-23,2020-05-05,26.1,24.7,27.5,24.7 - 27.5
+3,79,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,1,"Apr 23 - May 5, 2020",2020-04-23,2020-05-05,35.4,34.5,36.3,34.5 - 36.3
+7,289,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,2,"May 7 - May 12, 2020",2020-05-07,2020-05-12,33.1,32.0,34.2,32.0 - 34.2
+11,288,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,2,"May 7 - May 12, 2020",2020-05-07,2020-05-12,26.7,24.9,28.5,24.9 - 28.5
+14,498,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,3,"May 14 - May 19, 2020",2020-05-14,2020-05-19,24.2,23.2,25.2,23.2 - 25.2
+15,499,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,3,"May 14 - May 19, 2020",2020-05-14,2020-05-19,32.1,31.0,33.1,31.0 - 33.1
+20,709,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,4,"May 21 - May 26, 2020",2020-05-21,2020-05-26,33.2,32.3,34.2,32.3 - 34.2
+23,708,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,4,"May 21 - May 26, 2020",2020-05-21,2020-05-26,25.4,24.4,26.3,24.4 - 26.3
+26,918,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,5,"May 28 - June 2, 2020",2020-05-28,2020-06-02,26.0,25.1,26.8,25.1 - 26.8
+27,919,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,5,"May 28 - June 2, 2020",2020-05-28,2020-06-02,35.0,34.3,35.8,34.3 - 35.8
+32,1128,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,6,"June 4 - June 9, 2020",2020-06-04,2020-06-09,26.8,25.4,28.4,25.4 - 28.4
+33,1129,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,6,"June 4 - June 9, 2020",2020-06-04,2020-06-09,35.1,34.1,36.1,34.1 - 36.1
+38,1339,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,7,"June 11 - June 16, 2020",2020-06-11,2020-06-16,35.0,34.1,36.0,34.1 - 36.0
+41,1338,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,7,"June 11 - June 16, 2020",2020-06-11,2020-06-16,28.1,27.0,29.3,27.0 - 29.3
+45,1548,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,8,"June 18 - June 23, 2020",2020-06-18,2020-06-23,27.4,26.5,28.4,26.5 - 28.4
+46,1549,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,8,"June 18 - June 23, 2020",2020-06-18,2020-06-23,34.8,33.9,35.8,33.9 - 35.8
+50,1758,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,9,"June 25 - June 30, 2020",2020-06-25,2020-06-30,29.0,27.9,30.1,27.9 - 30.1
+51,1759,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,9,"June 25 - June 30, 2020",2020-06-25,2020-06-30,36.7,35.9,37.6,35.9 - 37.6
+56,1969,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,10,"July 2 - July 7, 2020",2020-07-02,2020-07-07,37.0,36.1,37.8,36.1 - 37.8
+57,1968,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,10,"July 2 - July 7, 2020",2020-07-02,2020-07-07,30.7,29.6,31.9,29.6 - 31.9
+62,2178,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,11,"July 9 - July 14, 2020",2020-07-09,2020-07-14,31.5,30.2,32.9,30.2 - 32.9
+63,2179,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,11,"July 9 - July 14, 2020",2020-07-09,2020-07-14,39.4,38.3,40.6,38.3 - 40.6
+68,2388,Symptoms of Anxiety Disorder,By Sex,United States,Male,1,12,"July 16 - July 21, 2020",2020-07-16,2020-07-21,32.1,30.8,33.5,30.8 - 33.5
+69,2389,Symptoms of Anxiety Disorder,By Sex,United States,Female,1,12,"July 16 - July 21, 2020",2020-07-16,2020-07-21,39.8,38.8,40.7,38.8 - 40.7
+80,2636,Symptoms of Anxiety Disorder,By Sex,United States,Male,2,13,"Aug 19 - Aug 31, 2020",2020-08-19,2020-08-31,26.4,25.5,27.3,25.5 - 27.3
+81,2637,Symptoms of Anxiety Disorder,By Sex,United States,Female,2,13,"Aug 19 - Aug 31, 2020",2020-08-19,2020-08-31,36.1,35.3,36.9,35.3 - 36.9
+85,2866,Symptoms of Anxiety Disorder,By Sex,United States,Female,2,14,"Sep 2 - Sep 14, 2020",2020-09-02,2020-09-14,35.5,34.7,36.4,34.7 - 36.4
+89,2865,Symptoms of Anxiety Disorder,By Sex,United States,Male,2,14,"Sep 2 - Sep 14, 2020",2020-09-02,2020-09-14,27.2,26.5,28.0,26.5 - 28.0
+92,3075,Symptoms of Anxiety Disorder,By Sex,United States,Male,2,15,"Sep 16 - Sep 28, 2020",2020-09-16,2020-09-28,27.7,27.0,28.5,27.0 - 28.5
+93,3076,Symptoms of Anxiety Disorder,By Sex,United States,Female,2,15,"Sep 16 - Sep 28, 2020",2020-09-16,2020-09-28,37.1,36.2,38.0,36.2 - 38.0
+98,3285,Symptoms of Anxiety Disorder,By Sex,United States,Male,2,16,"Sep 30 - Oct 12, 2020",2020-09-30,2020-10-12,28.1,27.0,29.2,27.0 - 29.2
+101,3286,Symptoms of Anxiety Disorder,By Sex,United States,Female,2,16,"Sep 30 - Oct 12, 2020",2020-09-30,2020-10-12,36.4,35.6,37.2,35.6 - 37.2
+104,3495,Symptoms of Anxiety Disorder,By Sex,United States,Male,2,17,"Oct 14 - Oct 26, 2020",2020-10-14,2020-10-26,27.6,26.6,28.7,26.6 - 28.7
+105,3496,Symptoms of Anxiety Disorder,By Sex,United States,Female,2,17,"Oct 14 - Oct 26, 2020",2020-10-14,2020-10-26,37.6,36.9,38.4,36.9 - 38.4
+111,3705,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Oct 28 � Dec 21),18,"Oct 28 - Nov 9, 2020",2020-10-28,2020-11-09,30.3,29.1,31.7,29.1 - 31.7
+112,3706,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Oct 28 � Dec 21),18,"Oct 28 - Nov 9, 2020",2020-10-28,2020-11-09,41.8,40.6,43.0,40.6 - 43.0
+115,3916,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Oct 28 � Dec 21),19,"Nov 11 - Nov 23, 2020",2020-11-11,2020-11-23,42.9,41.9,43.9,41.9 - 43.9
+119,3915,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Oct 28 � Dec 21),19,"Nov 11 - Nov 23, 2020",2020-11-11,2020-11-23,31.1,29.8,32.4,29.8 - 32.4
+122,4125,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Oct 28 � Dec 21),20,"Nov 25 - Dec 7, 2020",2020-11-25,2020-12-07,31.4,30.3,32.6,30.3 - 32.6
+123,4126,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Oct 28 � Dec 21),20,"Nov 25 - Dec 7, 2020",2020-11-25,2020-12-07,40.5,39.7,41.3,39.7 - 41.3
+128,4335,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Oct 28 � Dec 21),21,"Dec 9 - Dec 21, 2020",2020-12-09,2020-12-21,32.2,31.1,33.3,31.1 - 33.3
+129,4336,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Oct 28 � Dec 21),21,"Dec 9 - Dec 21, 2020",2020-12-09,2020-12-21,41.1,40.0,42.2,40.0 - 42.2
+139,4583,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Jan 6 � Mar 29),22,"Jan 6 - Jan 18, 2021",2021-01-06,2021-01-18,30.7,29.4,32.0,29.4 - 32.0
+140,4584,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Jan 6 � Mar 29),22,"Jan 6 - Jan 18, 2021",2021-01-06,2021-01-18,40.5,39.7,41.4,39.7 - 41.4
+146,4813,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Jan 6 � Mar 29),23,"Jan 20 - Feb 1, 2021",2021-01-20,2021-02-01,39.5,38.5,40.5,38.5 - 40.5
+149,4812,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Jan 6 � Mar 29),23,"Jan 20 - Feb 1, 2021",2021-01-20,2021-02-01,32.4,31.2,33.6,31.2 - 33.6
+153,5022,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Jan 6 � Mar 29),24,"Feb 3 - Feb 15, 2021",2021-02-03,2021-02-15,29.6,28.6,30.7,28.6 - 30.7
+154,5023,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Jan 6 � Mar 29),24,"Feb 3 - Feb 15, 2021",2021-02-03,2021-02-15,37.6,36.8,38.5,36.8 - 38.5
+157,5233,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Jan 6 � Mar 29),25,"Feb 17 - Mar 1, 2021",2021-02-17,2021-03-01,36.8,35.7,37.8,35.7 - 37.8
+160,5232,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Jan 6 � Mar 29),25,"Feb 17 - Mar 1, 2021",2021-02-17,2021-03-01,29.6,28.4,30.8,28.4 - 30.8
+164,5442,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Jan 6 � Mar 29),26,"Mar 3 - Mar 15, 2021",2021-03-03,2021-03-15,27.5,26.4,28.6,26.4 - 28.6
+165,5443,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Jan 6 � Mar 29),26,"Mar 3 - Mar 15, 2021",2021-03-03,2021-03-15,35.1,34.1,36.1,34.1 - 36.1
+168,5653,Symptoms of Anxiety Disorder,By Sex,United States,Female,3 (Jan 6 � Mar 29),27,"Mar 17 - Mar 29, 2021",2021-03-17,2021-03-29,33.5,32.6,34.5,32.6 - 34.5
+171,5652,Symptoms of Anxiety Disorder,By Sex,United States,Male,3 (Jan 6 � Mar 29),27,"Mar 17 - Mar 29, 2021",2021-03-17,2021-03-29,26.3,25.0,27.8,25.0 - 27.8
+182,5902,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.1,28,"Apr 14 - Apr 26, 2021",2021-04-14,2021-04-26,23.0,21.9,24.2,21.9 - 24.2
+185,5903,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.1,28,"Apr 14 - Apr 26, 2021",2021-04-14,2021-04-26,31.3,30.2,32.4,30.2 - 32.4
+189,6137,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.1,29,"Apr 28 - May 10, 2021",2021-04-28,2021-05-10,22.5,21.5,23.6,21.5 - 23.6
+190,6138,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.1,29,"Apr 28 - May 10, 2021",2021-04-28,2021-05-10,30.2,29.4,31.0,29.4 - 31.0
+194,6353,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.1,30,"May 12 - May 24, 2021",2021-05-12,2021-05-24,22.0,21.1,23.0,21.1 - 23.0
+195,6354,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.1,30,"May 12 - May 24, 2021",2021-05-12,2021-05-24,29.2,28.3,30.1,28.3 - 30.1
+198,6570,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.1,31,"May 26 - Jun 7, 2021",2021-05-26,2021-06-07,28.5,27.6,29.4,27.6 - 29.4
+201,6569,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.1,31,"May 26 - Jun 7, 2021",2021-05-26,2021-06-07,22.1,21.1,23.2,21.1 - 23.2
+206,6785,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.1,32,"Jun 9 - Jun 21, 2021",2021-06-09,2021-06-21,23.2,21.9,24.5,21.9 - 24.5
+207,6786,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.1,32,"Jun 9 - Jun 21, 2021",2021-06-09,2021-06-21,28.8,27.8,29.8,27.8 - 29.8
+212,7002,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.1,33,"Jun 23 - Jul 5, 2021",2021-06-23,2021-07-05,28.5,27.4,29.5,27.4 - 29.5
+213,7001,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.1,33,"Jun 23 - Jul 5, 2021",2021-06-23,2021-07-05,20.2,19.1,21.3,19.1 - 21.3
+224,7265,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.2,34,"Jul 21 - Aug 2, 2021",2021-07-21,2021-08-02,23.6,22.2,25.1,22.2 - 25.1
+227,7266,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.2,34,"Jul 21 - Aug 2, 2021",2021-07-21,2021-08-02,30.1,29.2,31.1,29.2 - 31.1
+229,7521,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.2,35,"Aug 4 - Aug 16, 2021",2021-08-04,2021-08-16,30.5,29.4,31.5,29.4 - 31.5
+233,7520,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.2,35,"Aug 4 - Aug 16, 2021",2021-08-04,2021-08-16,22.4,21.3,23.6,21.3 - 23.6
+236,7754,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.2,36,"Aug 18 - Aug 30, 2021",2021-08-18,2021-08-30,23.4,22.3,24.5,22.3 - 24.5
+237,7755,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.2,36,"Aug 18 - Aug 30, 2021",2021-08-18,2021-08-30,32.0,31.1,32.9,31.1 - 32.9
+242,7989,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.2,37,"Sep 1 - Sep 13, 2021",2021-09-01,2021-09-13,31.5,30.6,32.3,30.6 - 32.3
+245,7988,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.2,37,"Sep 1 - Sep 13, 2021",2021-09-01,2021-09-13,24.5,23.4,25.6,23.4 - 25.6
+248,8222,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.2,38,"Sep 15 - Sep 27, 2021",2021-09-15,2021-09-27,24.0,22.9,25.1,22.9 - 25.1
+249,8223,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.2,38,"Sep 15 - Sep 27, 2021",2021-09-15,2021-09-27,31.4,30.4,32.5,30.4 - 32.5
+254,8457,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.2,39,"Sep 29 - Oct 11, 2021",2021-09-29,2021-10-11,31.3,30.3,32.3,30.3 - 32.3
+255,8456,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.2,39,"Sep 29 - Oct 11, 2021",2021-09-29,2021-10-11,22.9,21.8,24.0,21.8 - 24.0
+266,8732,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.3,40,"Dec 1 - Dec 13, 2021",2021-12-01,2021-12-13,22.9,22.0,23.8,22.0 - 23.8
+269,8733,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.3,40,"Dec 1 - Dec 13, 2021",2021-12-01,2021-12-13,29.9,28.9,30.8,28.9 - 30.8
+272,8987,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.3,41,"Dec 29, 2021 - Jan 10, 2022",2021-12-29,2022-01-10,23.8,22.7,24.8,22.7 - 24.8
+273,8988,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.3,41,"Dec 29, 2021 - Jan 10, 2022",2021-12-29,2022-01-10,31.7,30.8,32.7,30.8 - 32.7
+278,9221,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.3,42,"Jan 26 - Feb 7, 2022",2022-01-26,2022-02-07,22.9,22.0,23.9,22.0 - 23.9
+279,9222,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.3,42,"Jan 26 - Feb 7, 2022",2022-01-26,2022-02-07,31.2,30.4,32.0,30.4 - 32.0
+289,9509,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.4,43,"Mar 2 - Mar 14, 2022",2022-03-02,2022-03-14,23.5,22.7,24.4,22.7 - 24.4
+290,9510,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.4,43,"Mar 2 - Mar 14, 2022",2022-03-02,2022-03-14,30.8,30.0,31.6,30.0 - 31.6
+296,9770,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.4,44,"Mar 30 - Apr 11, 2022",2022-03-30,2022-04-11,22.9,21.7,24.1,21.7 - 24.1
+297,9771,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.4,44,"Mar 30 - Apr 11, 2022",2022-03-30,2022-04-11,30.7,29.6,31.7,29.6 - 31.7
+301,10005,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.4,45,"Apr 27 - May 9, 2022",2022-04-27,2022-05-09,30.4,29.3,31.6,29.3 - 31.6
+305,10004,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.4,45,"Apr 27 - May 9, 2022",2022-04-27,2022-05-09,22.8,21.4,24.1,21.4 - 24.1
+314,10293,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.5,46,"Jun 1 - Jun 13, 2022",2022-06-01,2022-06-13,32.6,31.6,33.5,31.6 - 33.5
+317,10292,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.5,46,"Jun 1 - Jun 13, 2022",2022-06-01,2022-06-13,25.0,23.8,26.2,23.8 - 26.2
+321,10553,Symptoms of Anxiety Disorder,By Sex,United States,Male,3.5,47,"Jun 29 - Jul 11, 2022",2022-06-29,2022-07-11,24.5,23.3,25.7,23.3 - 25.7
+322,10554,Symptoms of Anxiety Disorder,By Sex,United States,Female,3.5,47,"Jun 29 - Jul 11, 2022",2022-06-29,2022-07-11,32.8,31.8,33.9,31.8 - 33.9

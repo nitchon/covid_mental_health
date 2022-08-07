@@ -1,0 +1,43 @@
+,index,Indicator,Group,State,Subgroup,Phase,Time Period,Time Period Label,Time Period Start Date,Time Period End Date,Value,Low CI,High CI,Confidence Interval
+0,7171,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.2,34,"Jul 21 - Aug 2, 2021",2021-07-21,2021-08-02,31.2,27.0,35.6,27.0 - 35.6
+1,7172,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.2,34,"Jul 21 - Aug 2, 2021",2021-07-21,2021-08-02,19.7,18.9,20.5,18.9 - 20.5
+2,7173,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.2,34,"Jul 21 - Aug 2, 2021",2021-07-21,2021-08-02,49.8,46.1,53.6,46.1 - 53.6
+14,7449,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.2,35,"Aug 4 - Aug 16, 2021",2021-08-04,2021-08-16,47.4,43.7,51.0,43.7 - 51.0
+15,7448,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.2,35,"Aug 4 - Aug 16, 2021",2021-08-04,2021-08-16,19.1,18.4,19.9,18.4 - 19.9
+16,7447,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.2,35,"Aug 4 - Aug 16, 2021",2021-08-04,2021-08-16,30.4,26.1,35.0,26.1 - 35.0
+23,7683,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.2,36,"Aug 18 - Aug 30, 2021",2021-08-18,2021-08-30,47.1,43.0,51.2,43.0 - 51.2
+24,7682,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.2,36,"Aug 18 - Aug 30, 2021",2021-08-18,2021-08-30,20.1,19.5,20.8,19.5 - 20.8
+25,7681,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.2,36,"Aug 18 - Aug 30, 2021",2021-08-18,2021-08-30,38.2,34.0,42.6,34.0 - 42.6
+32,7917,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.2,37,"Sep 1 - Sep 13, 2021",2021-09-01,2021-09-13,49.0,44.6,53.3,44.6 - 53.3
+33,7915,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.2,37,"Sep 1 - Sep 13, 2021",2021-09-01,2021-09-13,40.1,35.0,45.3,35.0 - 45.3
+35,7916,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.2,37,"Sep 1 - Sep 13, 2021",2021-09-01,2021-09-13,19.9,19.1,20.8,19.1 - 20.8
+36,8149,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.2,38,"Sep 15 - Sep 27, 2021",2021-09-15,2021-09-27,38.9,32.8,45.2,32.8 - 45.2
+37,8150,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.2,38,"Sep 15 - Sep 27, 2021",2021-09-15,2021-09-27,19.6,18.9,20.4,18.9 - 20.4
+38,8151,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.2,38,"Sep 15 - Sep 27, 2021",2021-09-15,2021-09-27,48.8,44.1,53.6,44.1 - 53.6
+50,8385,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.2,39,"Sep 29 - Oct 11, 2021",2021-09-29,2021-10-11,44.6,39.8,49.4,39.8 - 49.4
+51,8384,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.2,39,"Sep 29 - Oct 11, 2021",2021-09-29,2021-10-11,19.4,18.6,20.3,18.6 - 20.3
+52,8383,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.2,39,"Sep 29 - Oct 11, 2021",2021-09-29,2021-10-11,34.9,30.2,39.8,30.2 - 39.8
+59,8640,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.3,40,"Dec 1 - Dec 13, 2021",2021-12-01,2021-12-13,45.6,41.7,49.5,41.7 - 49.5
+60,8639,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.3,40,"Dec 1 - Dec 13, 2021",2021-12-01,2021-12-13,19.2,18.5,20.0,18.5 - 20.0
+61,8638,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.3,40,"Dec 1 - Dec 13, 2021",2021-12-01,2021-12-13,35.0,31.0,39.1,31.0 - 39.1
+68,8916,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.3,41,"Dec 29, 2021 - Jan 10, 2022",2021-12-29,2022-01-10,47.6,43.8,51.4,43.8 - 51.4
+69,8915,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.3,41,"Dec 29, 2021 - Jan 10, 2022",2021-12-29,2022-01-10,20.4,19.6,21.2,19.6 - 21.2
+70,8914,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.3,41,"Dec 29, 2021 - Jan 10, 2022",2021-12-29,2022-01-10,35.8,32.0,39.7,32.0 - 39.7
+77,9150,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.3,42,"Jan 26 - Feb 7, 2022",2022-01-26,2022-02-07,49.9,46.5,53.3,46.5 - 53.3
+78,9149,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.3,42,"Jan 26 - Feb 7, 2022",2022-01-26,2022-02-07,19.5,18.9,20.1,18.9 - 20.1
+79,9148,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.3,42,"Jan 26 - Feb 7, 2022",2022-01-26,2022-02-07,35.1,31.0,39.4,31.0 - 39.4
+93,9410,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.4,43,"Mar 2 - Mar 14, 2022",2022-03-02,2022-03-14,19.6,18.9,20.3,18.9 - 20.3
+96,9411,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.4,43,"Mar 2 - Mar 14, 2022",2022-03-02,2022-03-14,44.7,41.1,48.4,41.1 - 48.4
+97,9409,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.4,43,"Mar 2 - Mar 14, 2022",2022-03-02,2022-03-14,32.6,28.2,37.2,28.2 - 37.2
+104,9699,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.4,44,"Mar 30 - Apr 11, 2022",2022-03-30,2022-04-11,48.6,43.5,53.7,43.5 - 53.7
+105,9697,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.4,44,"Mar 30 - Apr 11, 2022",2022-03-30,2022-04-11,33.1,27.7,38.9,27.7 - 38.9
+107,9698,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.4,44,"Mar 30 - Apr 11, 2022",2022-03-30,2022-04-11,19.2,18.5,19.9,18.5 - 19.9
+108,9931,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.4,45,"Apr 27 - May 9, 2022",2022-04-27,2022-05-09,34.2,28.2,40.6,28.2 - 40.6
+109,9932,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.4,45,"Apr 27 - May 9, 2022",2022-04-27,2022-05-09,19.5,18.7,20.3,18.7 - 20.3
+110,9933,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.4,45,"Apr 27 - May 9, 2022",2022-04-27,2022-05-09,44.4,40.4,48.4,40.4 - 48.4
+126,10193,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.5,46,"Jun 1 - Jun 13, 2022",2022-06-01,2022-06-13,20.0,19.3,20.7,19.3 - 20.7
+128,10194,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.5,46,"Jun 1 - Jun 13, 2022",2022-06-01,2022-06-13,45.2,40.7,49.8,40.7 - 49.8
+133,10192,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.5,46,"Jun 1 - Jun 13, 2022",2022-06-01,2022-06-13,26.1,22.4,30.1,22.4 - 30.1
+136,10480,Symptoms of Depressive Disorder,By Sexual orientation,United States,Gay or lesbian,3.5,47,"Jun 29 - Jul 11, 2022",2022-06-29,2022-07-11,28.6,24.3,33.1,24.3 - 33.1
+137,10481,Symptoms of Depressive Disorder,By Sexual orientation,United States,Straight,3.5,47,"Jun 29 - Jul 11, 2022",2022-06-29,2022-07-11,20.9,20.2,21.7,20.2 - 21.7
+138,10482,Symptoms of Depressive Disorder,By Sexual orientation,United States,Bisexual,3.5,47,"Jun 29 - Jul 11, 2022",2022-06-29,2022-07-11,46.9,42.2,51.7,42.2 - 51.7
