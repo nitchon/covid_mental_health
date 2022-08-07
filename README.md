@@ -1,4 +1,4 @@
-# project1
+# Project 1
 Project 1 Group 1
 
 # Description
@@ -13,9 +13,28 @@ This project is an exercise in coding as well as data analysis. We look at menta
 
 
 # Visuals
+Age Group Line Graph
+
+![image](https://user-images.githubusercontent.com/107419765/183315418-533a7d90-2a87-41c2-a602-fc93861a8f86.png)
+
+Education Line Graph
+
+![image](https://user-images.githubusercontent.com/107419765/183315438-be8d3794-388a-4a9f-bdc3-9c8822c449a9.png)
+
+Sexual Orientation Line Graph
+
+![image](https://user-images.githubusercontent.com/107419765/183315536-6185716c-b0f7-4efa-89d9-c7317bb82ae8.png)
+
+Sexual Gender Line Graph
+
+![image](https://user-images.githubusercontent.com/107419765/183315547-b1a0a40f-3cae-4bc3-8661-856223c0dbac.png)
+
+Vax Rate vs Mental Wellbeing in Georgia
+
+![image](https://user-images.githubusercontent.com/107419765/183315571-9e108c5c-c3ce-40ef-8c91-cc47865396ff.png)
 
 
-# Modules
+# Modules Used
     - Pandas
     - Matplotlib
     - Numpy
