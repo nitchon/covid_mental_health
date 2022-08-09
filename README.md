@@ -16,13 +16,13 @@ This project is an exercise in coding as well as data analysis. We look at menta
 
 Age Group Line Graph
 
-https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Age.png
+![image](https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Age.png)
 
 Based on the data collected from April 2020 to July 2022 , the younger age group of 18-29 years old has highest average depression rate vs the older age group of 70-79 years old and 80 years old. All age groups have the same peak of depression rate occurring in Sept 2020 to Mar 2021. Similar decline in rate of depression for all age groups occurs in May 2021 and no significant increase until the end of the June 2022.
 
 Education Line Graph
 
-https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Education.png
+![image](https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Education.png)
 
 Based on the graph, people with “less than high school diploma” have the highest average depression rate.  
 
