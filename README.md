@@ -38,9 +38,19 @@ Sexual Gender Line Graph
 
 Based on the graphed data, women have a higher percentage of depression symptoms. This is an example of sampling bias, since research shows men will most likely not express feelings of depression as easily as women do. Another potential sampling bias is if women or men are more likely to answer a phone survey.  (https://www.psychologytoday.com/us/blog/pop-psych/201607/why-women-are-more-depressed-men)
 
-Vax Rate vs Mental Wellbeing in Georgia
+Vax Rate vs Mental Wellbeing in Select States
 
-![image](https://user-images.githubusercontent.com/107419765/183315571-9e108c5c-c3ce-40ef-8c91-cc47865396ff.png)
+![image](https://user-images.githubusercontent.com/nitchon/project1/main/Vax_rate_by_state.png)
+
+Percentages of anxiety and depression decrease as a state vax rate increase. 
+The increase in mental health distress was shown early in the pandemic through the pulse 
+dataset, however the increase in vaccination rate is simply a function of time. Other factors could
+have as easily improved mental health as well up to and including that the populace simply 
+became inured to concerns over Covid-19. However by in large there is a decrease over this time 
+period and the populace becoming more vaccinated likely played a role in easing overall concern
+of the pandemic as well as allowing for an easing of restrictions that could have also been 
+negatively affecting mental health outcomes.
+
 
 Political Affiliation with Depression & Anxiety
 
