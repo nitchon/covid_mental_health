@@ -40,7 +40,7 @@ Based on the graphed data, women have a higher percentage of depression symptoms
 
 Vax Rate vs Mental Wellbeing in Select States
 
-![image](https://user-images.githubusercontent.com/nitchon/project1/main/Vax_rate_by_state.png)
+![image](https://raw.githubusercontent.com/nitchon/project1/main/Vax_rate_by_state.png)
 
 Percentages of anxiety and depression decrease as a state vax rate increase. 
 The increase in mental health distress was shown early in the pandemic through the pulse 
