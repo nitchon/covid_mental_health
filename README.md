@@ -18,30 +18,35 @@ Age Group Line Graph
 
 https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Age.png
 
-# Based on the data collected from April 2020 to July 2022 , the younger age group of 18-29 years old has highest average depression rate vs the older age group of 70-79 years old and 80 years old. All age groups have the same peak of depression rate occurring in Sept 2020 to Mar 2021. Similar decline in rate of depression for all age groups occurs in May 2021 and no significant increase until the end of the June 2022.
+Based on the data collected from April 2020 to July 2022 , the younger age group of 18-29 years old has highest average depression rate vs the older age group of 70-79 years old and 80 years old. All age groups have the same peak of depression rate occurring in Sept 2020 to Mar 2021. Similar decline in rate of depression for all age groups occurs in May 2021 and no significant increase until the end of the June 2022.
 
 Education Line Graph
 
 https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Education.png
 
-# Based on the graph, people with “less than high school diploma” have the highest average depression rate.  
+Based on the graph, people with “less than high school diploma” have the highest average depression rate.  
 
 Sexual Orientation Line Graph
 
 ![image](https://user-images.githubusercontent.com/107419765/183315536-6185716c-b0f7-4efa-89d9-c7317bb82ae8.png)
 
-# Based on the graphed data, straight people are considerably less depressed than bisexual or gay/lesbian people.  Bisexual people have the highest rate of depression symptoms.  Due to "bi-erasure" concept, bisexual people are considered "afriad to come out" and not as welcomed to the LGBTQ community due to this bias like gay or lesbian people are. Bisexual people are also least likely to come "out" to friends and participate in Pride events because of this bias. This information comes from research regarding this topic, and does not reflect my thoughts/opinion. (https://www.psychologytoday.com/us/blog/women-who-stray/201904/why-are-mental-health-issues-greater-among-bisexual-people)
+Based on the graphed data, straight people are considerably less depressed than bisexual or gay/lesbian people.  Bisexual people have the highest rate of depression symptoms.  Due to "bi-erasure" concept, bisexual people are considered "afriad to come out" and not as welcomed to the LGBTQ community due to this bias like gay or lesbian people are. Bisexual people are also least likely to come "out" to friends and participate in Pride events because of this bias. This information comes from research regarding this topic, and does not reflect my thoughts/opinion. (https://www.psychologytoday.com/us/blog/women-who-stray/201904/why-are-mental-health-issues-greater-among-bisexual-people)
 
 Sexual Gender Line Graph
 
 ![image](https://user-images.githubusercontent.com/107419765/183315547-b1a0a40f-3cae-4bc3-8661-856223c0dbac.png)
 
-#Based on the graphed data, women have a higher percentage of depression symptoms. This is an example of sampling bias, since research shows men will most likely not express feelings of depression as easily as women do. Another potential sampling bias is if women or men are more likely to answer a phone survey.  (https://www.psychologytoday.com/us/blog/pop-psych/201607/why-women-are-more-depressed-men)
+Based on the graphed data, women have a higher percentage of depression symptoms. This is an example of sampling bias, since research shows men will most likely not express feelings of depression as easily as women do. Another potential sampling bias is if women or men are more likely to answer a phone survey.  (https://www.psychologytoday.com/us/blog/pop-psych/201607/why-women-are-more-depressed-men)
 
 Vax Rate vs Mental Wellbeing in Georgia
 
 ![image](https://user-images.githubusercontent.com/107419765/183315571-9e108c5c-c3ce-40ef-8c91-cc47865396ff.png)
 
+Political Affiliation with Depression & Anxiety
+
+**insert image**
+
+Based on the graph, the red states (Republican) appear to be higher, but there is no meaningful/conclusive evidence that a state’s political affiliation affects the states' percentage of exhibiting symptoms. When graphed in bar or line form, red and blue states appear to mirror each other. After analyzing a state’s health professional shortage areas in relation to mental health, the scatter plots show no correlation. This shows how mental health is discussed asa society.
 
 # Modules Used
     - Pandas
