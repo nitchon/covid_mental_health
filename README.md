@@ -54,9 +54,12 @@ negatively affecting mental health outcomes.
 
 Political Affiliation with Depression & Anxiety
 
-**insert image**
+![image](https://user-images.githubusercontent.com/107419765/183546428-507a5517-bef8-4c46-93a3-a36c81bc65c7.png)
 
-Based on the graph, the red states (Republican) appear to be higher, but there is no meaningful/conclusive evidence that a state’s political affiliation affects the states' percentage of exhibiting symptoms. When graphed in bar or line form, red and blue states appear to mirror each other. After analyzing a state’s health professional shortage areas in relation to mental health, the scatter plots show no correlation. This shows how mental health is discussed asa society.
+![image](https://user-images.githubusercontent.com/107419765/183546523-df0456f0-3b55-4bfb-a6db-f537b38b6577.png)
+
+
+Based on the graph, the red states (Republican) appear to be higher, but there is no conclusive evidence that a state’s political affiliation affects the states' percentage of exhibiting symptoms. When graphed in bar or line form, red and blue states appear to mirror each other. After analyzing a state’s health professional shortage areas in relation to mental health, the scatter plots show no correlation. This shows how mental health is discussed asa society.
 
 # Modules Used
     - Pandas
