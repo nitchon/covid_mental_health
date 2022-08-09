@@ -15,11 +15,11 @@ This project is an exercise in coding as well as data analysis. We look at menta
 # Visuals
 Age Group Line Graph
 
-![image](https://user-images.githubusercontent.com/107419765/183315418-533a7d90-2a87-41c2-a602-fc93861a8f86.png)
+https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Age.png
 
 Education Line Graph
 
-![image](https://user-images.githubusercontent.com/107419765/183315438-be8d3794-388a-4a9f-bdc3-9c8822c449a9.png)
+https://github.com/nitchon/project1/blob/main/output_data/line_all_By_Education.png
 
 Sexual Orientation Line Graph
 
@@ -33,6 +33,8 @@ Vax Rate vs Mental Wellbeing in Georgia
 
 ![image](https://user-images.githubusercontent.com/107419765/183315571-9e108c5c-c3ce-40ef-8c91-cc47865396ff.png)
 
+# Summary and findings for analysis for mental by age and by education
+Based on the data collected from April 2020 to July 2022 , the younger age group of 18-29 years old has highest average depression rate vs the older age group of 70-79 years old and 80 years old. All age groups have the same peak of depression rate occurring in Sept 2020 to Mar 2021. Similar decline in rate of depression for all age groups occurs in May 2021 and no significant increase until the end of the June 2022. Also, the people with “less than high school diploma” has the highest average depression rate. 
 
 # Modules Used
     - Pandas
@@ -42,3 +44,4 @@ Vax Rate vs Mental Wellbeing in Georgia
 
 # Conclusions
 Younger age groups reported in higher percentages of anxiety and depression disorder symptoms. People with less than a high school diploma reported higher percentages of the aformentioned symptoms. Females trended higher than males through the pandemic. People who identified as straight trender lower than the Bisexual and Gay or Lesbian identifications. As a state's vaccination rate increases, the percentage of respondents to the Household Pulse survey seems to decrease over time. At a glance, red states may report higher rates of symptoms of anxiety or depression, but nothing conclusive. It is more appropriate to say that depression and anxiety affects everyone regardless of political party. A mental health survey with a question denoting political party would be better suited to tackle this analysis.
+
