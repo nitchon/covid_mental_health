@@ -36,7 +36,7 @@ Sexual Gender Line Graph
 
 ![image](https://user-images.githubusercontent.com/107419765/183315547-b1a0a40f-3cae-4bc3-8661-856223c0dbac.png)
 
-Based on the graphed data, women have a higher percentage of depression symptoms. This is an example of sampling bias, since research shows men will most likely not express feelings of depression as easily as women do. Another potential sampling bias is if women or men are more likely to answer a phone survey.  (https://www.psychologytoday.com/us/blog/pop-psych/201607/why-women-are-more-depressed-men)
+Based on the graphed data, women have a higher percentage of depression symptoms. Further research shows hormonal risk factors and gender stereotypes, such as the concept that men refrain from expressing their emotions due to upholding a masculine identity, indicate it is not surprising women have higher ratees of depression than men.  Furthermore, feminism is a promiment concept due to women feeling their role as a housewife is under-valued by society, or they are not an equal in the work place. (https://www.psychologytoday.com/us/blog/pop-psych/201607/why-women-are-more-depressed-men)
 
 Vax Rate vs Mental Wellbeing in Select States
 
@@ -70,3 +70,5 @@ Based on the graph, the red states (Republican) appear to be higher, but there i
 # Conclusions
 Younger age groups reported in higher percentages of anxiety and depression disorder symptoms. People with less than a high school diploma reported higher percentages of the aformentioned symptoms. Females trended higher than males through the pandemic. People who identified as straight trender lower than the Bisexual and Gay or Lesbian identifications. As a state's vaccination rate increases, the percentage of respondents to the Household Pulse survey seems to decrease over time. At a glance, red states may report higher rates of symptoms of anxiety or depression, but nothing conclusive. It is more appropriate to say that depression and anxiety affects everyone regardless of political party. A mental health survey with a question denoting political party would be better suited to tackle this analysis.
 
+# Data Notes
+Please keep in mind our data does contain sampling bias.  For example, portions of data is not continous.  It can't be ignored that there could be a potential political affiliation with the type of people responding to these CDC surveys.  Vacination rates are self-reported by the state, and are not always truthful or accurate depending on the state's choice of data collection. Finally, showing election party affiliations in relation to depression can be misleading since the last 2 elections had major swing states compared to the normal red vs blue status some states have.  Keeping this information in mind is important when analyzing the data.
