@@ -1,9 +1,6 @@
-# Project 1
-Project 1 Group 1
-
 # Introduction
 
-Project time for the cohort in the Data Analysis and Visualization bootcamp. Broken up into groups, we take everything we learned in the first seven weeks, from Pandas to Matplotlib, and try our hand at telling a story with data. With an open-ended assignment, our group searched almost aimlessly through the interwebs, until we happened upon from an experimental data system called the Household Pulse survey. In phases, it was survey conducted during the coronavirus pandemic and conducted by the National Center for Health Statistics partnered with the Census Bureau to provide information about the impact of the pandemic.
+Using data analytics and visualization tools, such as from Pandas to Matplotlib, we try our hand at telling a story with data. With an open-ended assignment, our group searched almost aimlessly through the interwebs, until we happened upon from an experimental data system called the Household Pulse survey. In phases, it was survey conducted during the coronavirus pandemic and conducted by the National Center for Health Statistics partnered with the Census Bureau to provide information about the impact of the pandemic.
 
 Included in the online survey were questions to obtain information on the frequency of anxiety and depression, which will be our focus tonight. For comparison, in 2019 10.8% of adults aged 18 and over reported symptoms of anxiety disorder or depressive disorder. At its peak in November 2020, the national estimate was around 42.6%. Tonight, we’ll check on in Americans, looking through the magnifying glass at age groups, education, gender, as well as sexual orientation. Then we will move the lens onto vaccination rates and state lines to identify any trends.
 
